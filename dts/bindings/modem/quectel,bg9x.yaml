@@ -21,3 +21,6 @@ properties:
 
   mdm-wdisable-gpios:
     type: phandle-array
+
+  mdm-pontrig-gpios:
+    type: phandle-array
